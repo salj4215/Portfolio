@@ -1,0 +1,25 @@
+#header
+{
+    height:             auto;
+
+}
+
+#header a
+{
+    color:              #D8E2FF;
+    text-decoration:    none;
+}
+
+#header li
+{
+    display:            inline-block;
+    margin-right:       10px;
+    margin-top:         20px;
+    font-family:        "Segoe UI Semibold", sans-serif;
+}
+
+#wholePage
+{
+    background:         linear-gradient(#4271ff,#00e5ff);
+    height:             auto;
+}
