@@ -51,6 +51,9 @@ html
 {
     font-family:        "Segoe UI Semibold", sans-serif;
     color:              #ffffff;
+    text-align:         center;
+    position:           relative;
+    top:                30px;
 }
 
 #aboutME .aboutMeDescription, .LearnedLanguages, h1
