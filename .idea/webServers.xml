@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="7ddf90c3-48bc-4904-9002-393167045daa" name="cislinux" url="http://cislinux.hfcc.edu">
-        <fileTransfer host="cislinux.hfcc.edu" port="22" accessType="SFTP">
+        <fileTransfer host="cislinux.hfcc.edu" port="22" privateKey="C:\Users\Sal\Desktop\FlashDrive Backup\putty\privatekey.ppk" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
