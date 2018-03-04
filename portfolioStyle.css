@@ -13,6 +13,7 @@
 #homeNavBar
 {
     width:              75%;
+    margin-bottom:      5%;
 }
 
 #header a
@@ -72,3 +73,12 @@ html
     backface-visibility: hidden;
 }
 
+#projects
+{
+    margin-left:        5%;
+}
+
+#projects p
+{
+    color:          #ffffff;
+}
