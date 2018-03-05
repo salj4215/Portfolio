@@ -75,10 +75,16 @@ html
 
 #projects
 {
-    margin-left:        5%;
+    display:        block;
+    margin-left:    50%;
 }
 
 #projects p
 {
     color:          #ffffff;
+}
+
+#projects #radialPicker
+{
+    margin-top:    10px;
 }
