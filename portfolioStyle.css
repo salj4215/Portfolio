@@ -73,10 +73,11 @@ html
     backface-visibility: hidden;
 }
 
-#projects
+#projects #topCard
 {
     display:        block;
-    margin-left:    50%;
+    margin-left:    47%;
+    margin-top:     10%;
 }
 
 #projects p
@@ -87,4 +88,6 @@ html
 #projects #radialPicker
 {
     margin-top:    10px;
+    margin-left:   50%;
+    margin-right:  50%;
 }
